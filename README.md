@@ -61,7 +61,7 @@ Response is returned with reply
 All messages are logged in the console
 ▶️ How to Run
 Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone (https://github.com/dipeshpadole786/Whatsapp-Chatbot-Backend-using-Java-and-Spring-boot.git)
 Navigate to the project:
 cd whatsapp-chatbot
 Run the application:
@@ -71,7 +71,7 @@ POST http://localhost:8080/webhook
 🎥 Demo Video
 
 Loom Video Link:
-https://www.loom.com/share/your-video-link
+(https://www.loom.com/share/b26ea16e63db45eb9c4893197fac399b)
 
 💡 Future Improvements
 Integration with WhatsApp Cloud API
